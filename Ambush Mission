@@ -1,0 +1,11 @@
+
+First use stegsolve
+https://github.com/zardus/ctf-tools/blob/master/stegsolve/install
+- It's an amazing tool that takes off bits of the image in different planes in order to discover something hidden.
+
+hidden message:
+==QTh9lMx8Fd08VZt9FdFNTb
+Reversed base64
+
+hidden message decoded:
+m3Et_me_4t_12_aM
